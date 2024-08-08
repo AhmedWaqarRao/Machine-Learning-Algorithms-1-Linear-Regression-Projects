@@ -1,0 +1,3 @@
+Analysis of Ecommerce Customers DataAnalysis of Ecommerce Customers Data
+Predicting the Yearly Amount Spent by the customer on Web and Mobile App using Ecommerce Customers dataset. 
+Various features such as Avg.time, length of membership, Avg session length etc were used as Input features whereas Linear Regression Model predicts the Yearly Amount Spent by the customer.
